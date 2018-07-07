@@ -1,7 +1,7 @@
 # carnet
 This is code from the Car-Net project. The project aim was to build a classifier that can identify the make of a car from its image using deep learning. 
 
-Details of the project can be found here: https://altheengineer.github.io/2018-07-03-mypath/
+Details of the project can be found here: https://altheengineer.github.io/2018-07-01-carnet/
 
 The project uses a pre-trained ResNet-50 model and the Stanford Cars Dataset. The fastai library was used for rapid machine learning deployment. 
 
